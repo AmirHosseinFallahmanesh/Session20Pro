@@ -3,12 +3,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Demo.Models
 {
-    public class ApplicationDbContext : IdentityDbContext<AppUser>
-    {
-        public ApplicationDbContext(DbContextOptions options)
-            : base(options)
-        {
-        }
-    }
+    //public class ApplicationDbContext : IdentityDbContext<AppUser>
+    //{
+    //    public ApplicationDbContext(DbContextOptions options)
+    //        : base(options)
+    //    {
+    //    }
+    //}
 
 }
